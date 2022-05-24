@@ -1,3 +1,8 @@
+
+Looking for V Rising dedicated Server hosting to rent? Try us
+
+https://xgamingserver.com/v-rising-server-hosting
+
 # V Rising Dedicated Server Instructions
 The V Rising Dedicated Server is as it sounds a dedicated server application for the game [V Rising](https://store.steampowered.com/app/1604030/V_Rising/).
 
